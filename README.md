@@ -1,4 +1,4 @@
-#Cinema database management system
+# Cinema database management system
 
 Contains the architecture of the database and procedures that automatically handle user requests (like buying tickets, cancelling existing tickets, providing information about the available seats etc).
 
